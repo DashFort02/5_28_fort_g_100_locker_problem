@@ -7,8 +7,6 @@ var valueListI = -5; // the original value of a location
 var k = -5;
 var i;
 var b = 0; // counter of number of many black tiles in "checkCorrect"
-
-
 // make 100 lockers
 for (i = 0; i <= 99; i++) {
   list[i] = 1; 
